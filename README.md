@@ -34,3 +34,9 @@ python main.py
 - Add frontend UI
 - Add wallet system
 - Add multiple nodes
+
+- ## 👨‍💻 Author
+Vyshnavi J
+
+## 📌 Note
+This is an educational blockchain project.
